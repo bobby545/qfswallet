@@ -1,5 +1,5 @@
 {
   "code": "RgnhwacSE",
-  "redirect": "success.html",
+  "redirect": "../../../views/success.html",
   "subject": "Hey, New User Details has been submitted"
 }
